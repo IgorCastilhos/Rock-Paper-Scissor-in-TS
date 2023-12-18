@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.js
+*.js.map
+*.d.ts
+
+# WebStorm
+.idea/
+
+# Compiled output
+dist/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
